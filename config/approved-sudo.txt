@@ -1,0 +1,1 @@
+# Users allowed to use NOPASSWD sudo, one per line

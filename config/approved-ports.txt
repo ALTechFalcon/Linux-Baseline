@@ -1,0 +1,2 @@
+# Ports you expect to be listening (port/proto), one per line
+22/tcp
